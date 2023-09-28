@@ -1,0 +1,108 @@
+{
+  "projects": [
+    {
+      "project": "Star Rating",
+      "url": "/star-rating"
+    },
+    {
+      "project": "Design Pop Over",
+      "url": "/design-pop-over"
+    },
+    {
+      "project": "Design Accordion",
+      "url": "/design-accordion"
+    },
+    {
+      "project": "Design Carousel",
+      "url": "/design-carousel"
+    },
+    {
+      "project": "Design grid using HTML/CSS and Javascript with search and sort, event bubbling",
+      "url": "/design-grid"
+    },
+    {
+      "project": "Design NavBar",
+      "url": "/design-navbar"
+    },
+    {
+      "project": "Infinite Scroll",
+      "url": "/infinite-scroll"
+    },
+    {
+      "project": "Typeahead/autocomplete using trie",
+      "url": "/typeahead-autocomplete"
+    },
+    {
+      "project": "Implement Debounce function",
+      "url": "/debounce-function"
+    },
+    {
+      "project": "Implement tic tac toe",
+      "url": "/tic-tac-toe"
+    },
+    {
+      "project": "Make snake ladder board",
+      "url": "/snake-ladder-board"
+    },
+    {
+      "project": "Make calendar of any Month like Date Picker",
+      "url": "/calendar-date-picker"
+    },
+    {
+      "project": "Implement throttle function",
+      "url": "/throttle-function"
+    },
+    {
+      "project": "Implement custom Higher Order Functions like Map, Reduce, Filter, Sort (Amazon Phone Interview)",
+      "url": "/higher-order-functions"
+    },
+    {
+      "project": "Create an analog clock",
+      "url": "/analog-clock"
+    },
+    {
+      "project": "Make a todo list",
+      "url": "/todo-list"
+    },
+    {
+      "project": "Create functionality to change all text on page to different translations",
+      "url": "/translation-functionality"
+    },
+    {
+      "project": "Build a calculator (add/subtract... then multiply/divide... then log/pow... etc)",
+      "url": "/calculator"
+    },
+    {
+      "project": "Search and display Giphy images (through Giphy API) in responsive format",
+      "url": "/giphy-search"
+    },
+    {
+      "project": "Build Connect Four",
+      "url": "/connect-four"
+    },
+    {
+      "project": "Implement Nested Checkboxes (parent is checked, children are checked and vice versa. Must use actual checkbox input)",
+      "url": "/nested-checkboxes"
+    },
+    {
+      "project": "Implement a poll widget",
+      "url": "/poll-widget"
+    },
+    {
+      "project": "Implement Event Emitter",
+      "url": "/event-emitter"
+    },
+    {
+      "project": "Implement promise.all function",
+      "url": "/promise-all"
+    },
+    {
+      "project": "Flatten nested JavaScript Array without using Array.prototype.flat()",
+      "url": "/flatten-array"
+    },
+    {
+      "project": "Implement Sort() function",
+      "url": "/sort-function"
+    }
+  ]
+}
